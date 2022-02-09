@@ -1,0 +1,17 @@
+{
+  "name": "testbed_native_ios",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.1",
+    "react-native-branch": "^5.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "metro-react-native-babel-preset": "^0.68.0"
+  }
+}
